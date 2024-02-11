@@ -11,8 +11,8 @@ My curiosity and love for all things tech drive me to explore the ever-evolving 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Administration                        | <a href="https://google.com">Detection Lab</a>|
-| Network & Application Security                | <a href="https://google.com">Detection Lab</a>|
+| Network Administration                        | <a href="https://google.com">Lab</a>|
+| Network & Application Security                |Lab|
 | Incident Handling                             |Lab|
 | Forensics                                     |Lab|
 | Malware Analysis                              |Lab|
